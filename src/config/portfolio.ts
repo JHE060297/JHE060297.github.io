@@ -77,7 +77,7 @@ const content = {
       title: "System Engineer",
       subtitle: "Building elegant solutions with modern technologies",
       greeting: "Hello, I'm",
-      profilePhoto: "/profile-photo.png",
+      profilePhoto: "/profile-photo.jpg",
       cvUrl: "/path-to-cv.pdf"
     },
     about: {
@@ -112,7 +112,7 @@ const content = {
         description: "A full-featured e-commerce platform built with React, TypeScript, and Stripe integration. Features include product catalog, shopping cart, payment processing, and admin dashboard.",
         image: "/project-ecommerce.jpg",
         technologies: ["React", "TypeScript", "Node.js", "Stripe", "MongoDB"],
-        github: "https://github.com/joanesmith/ecommerce",
+        github: "https://github.com/JHE060297/ecommerce",
         demo: "https://ecommerce-demo.vercel.app"
       },
       {
@@ -128,7 +128,7 @@ const content = {
         description: "A secure mobile banking application with biometric authentication, transaction history, and financial insights. Optimized for performance and security.",
         image: "/project-mobile.jpg",
         technologies: ["React Native", "TypeScript", "Firebase", "Biometrics", "Chart.js"],
-        github: "https://github.com/joanesmith/mobile-banking",
+        github: "https://github.com/JHE060297/mobile-banking",
         demo: "https://banking-app-demo.vercel.app"
       }
     ],
@@ -213,16 +213,16 @@ const content = {
     },
     projects: [
       {
-        title: "Plataforma de E-Commerce",
-        description: "Una plataforma de e-commerce completa construida con React, TypeScript e integración de Stripe. Incluye catálogo de productos, carrito de compras, procesamiento de pagos y panel de administración.",
+        title: "Plataforma de Tutorias",
+        description: "Una plataforma de tutorías en línea construida con React, TypeScript e integración de Stripe. Incluye catálogo de cursos, carrito de compras, procesamiento de pagos y panel de administración.",
         image: "/project-ecommerce.jpg",
         technologies: ["React", "TypeScript", "Node.js", "Stripe", "MongoDB"],
         github: "https://github.com/joanesmith/ecommerce",
         demo: "https://ecommerce-demo.vercel.app"
       },
       {
-        title: "Dashboard de Gestión de Proyectos",
-        description: "Una herramienta completa de gestión de proyectos con seguimiento de tareas, colaboración en equipo y actualizaciones en tiempo real. Construida con patrones modernos de React y gestión de estado.",
+        title: "MetodoX",
+        description: "Una herramienta para la solucion de metodos numericos.",
         image: "/project-dashboard.jpg",
         technologies: ["React", "Redux", "Chart.js", "Socket.io", "Express"],
         github: "https://github.com/joanesmith/pm-dashboard",
@@ -300,7 +300,6 @@ export const portfolioConfig: PortfolioConfig = {
     social: {
       github: "https://github.com/JHE060297",
       linkedin: "https://linkedin.com/in/jhoan-aristizabal/",
-      twitter: "https://twitter.com/joanesmith",
       instagram: "https://instagram.com/jhe0602"
     }
   },
@@ -311,12 +310,12 @@ export const portfolioConfig: PortfolioConfig = {
     highlights: [
       {
         icon: "Code2",
-        title: "5+ Years",
+        title: "1+ Years",
         description: "Professional Experience"
       },
       {
         icon: "Users",
-        title: "20+ Projects",
+        title: "10+ Projects",
         description: "Successfully Delivered"
       },
       {
@@ -404,9 +403,9 @@ export const portfolioConfig: PortfolioConfig = {
   },
 
   meta: {
-    title: "Joane Smith - Software Engineer",
-    description: "Personal portfolio of Joane Smith, a software engineer specializing in React, TypeScript, and modern web technologies.",
-    keywords: ["software engineer", "react", "typescript", "web development", "portfolio"]
+    title: "Jhoan Aristizabal - Systems Engineer",
+    description: "Personal portfolio of Jhoan Aristizabal, a systems engineer specializing in React, TypeScript, and modern web technologies.",
+    keywords: ["systems engineer", "react", "typescript", "web development", "portfolio"]
   }
 };
 
