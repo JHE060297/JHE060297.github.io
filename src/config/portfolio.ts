@@ -73,8 +73,8 @@ export interface PortfolioConfig {
 const content = {
   en: {
     personal: {
-      name: "Joane Smith",
-      title: "Software Engineer",
+      name: "Jhoan Aristizabal",
+      title: "System Engineer",
       subtitle: "Building elegant solutions with modern technologies",
       greeting: "Hello, I'm",
       profilePhoto: "/profile-photo.png",
@@ -178,8 +178,8 @@ const content = {
   },
   es: {
     personal: {
-      name: "Joane Smith",
-      title: "Ingeniera de Software",
+      name: "Jhoan Aristizabal",
+      title: "Ingeniero de Sistemas",
       subtitle: "Construyendo soluciones elegantes con tecnologías modernas",
       greeting: "Hola, soy",
       profilePhoto: "/profile-photo.png",
