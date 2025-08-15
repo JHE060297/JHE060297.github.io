@@ -166,7 +166,7 @@ const content = {
         }
       ],
       technologies: [
-        "React", "TypeScript", "Node.js", "AWS", "Docker", "PostgreSQL", 
+        "React", "TypeScript", "Node.js", "AWS", "Docker", "PostgreSQL",
         "MongoDB", "GraphQL", "Jest", "Tailwind CSS", "Next.js", "Vue.js"
       ]
     },
@@ -182,21 +182,21 @@ const content = {
       title: "Ingeniero de Sistemas",
       subtitle: "Construyendo soluciones elegantes con tecnologías modernas",
       greeting: "Hola, soy",
-      profilePhoto: "/profile-photo.png",
+      profilePhoto: "/profile-photo.jpg",
       cvUrl: "/path-to-cv.pdf"
     },
     about: {
-      description: "Soy una ingeniera de software apasionada con más de 5 años de experiencia construyendo aplicaciones web y soluciones digitales. Me especializo en React, TypeScript y tecnologías web modernas, con un enfoque en crear aplicaciones amigables, escalables y mantenibles.",
+      description: "Soy un ingeniero de sistemas apasionado con más de 1 año de experiencia construyendo aplicaciones web y soluciones digitales. Me especializo en React, TypeScript y tecnologías web modernas, con un enfoque en crear aplicaciones amigables, escalables y mantenibles.",
       experience: "Mi viaje en el desarrollo de software comenzó con la curiosidad sobre cómo funcionan las cosas detrás de escena. Hoy, ayudo a las empresas a transformar sus ideas en realidad digital, trabajando con equipos multifuncionales para entregar soluciones de software de alta calidad.",
       highlights: [
         {
           icon: "Code2",
-          title: "5+ Años",
+          title: "1+ Año",
           description: "Experiencia Profesional"
         },
         {
           icon: "Users",
-          title: "20+ Proyectos",
+          title: "10+ Proyectos",
           description: "Entregados Exitosamente"
         },
         {
@@ -242,21 +242,21 @@ const content = {
         {
           title: "Frontend",
           skills: [
-            { name: "React", level: 95 },
-            { name: "TypeScript", level: 90 },
-            { name: "Next.js", level: 85 },
-            { name: "Tailwind CSS", level: 88 },
-            { name: "Vue.js", level: 75 }
+            { name: "React", level: 65 },
+            { name: "TypeScript", level: 60 },
+            { name: "Next.js", level: 60 },
+            { name: "Tailwind CSS", level: 50 },
+            { name: "Vue.js", level: 45 }
           ]
         },
         {
           title: "Backend",
           skills: [
-            { name: "Node.js", level: 88 },
-            { name: "Python", level: 82 },
-            { name: "PostgreSQL", level: 85 },
+            { name: "Node.js", level: 80 },
+            { name: "Python", level: 90 },
+            { name: "PostgreSQL", level: 75 },
             { name: "MongoDB", level: 80 },
-            { name: "GraphQL", level: 78 }
+            { name: "GraphQL", level: 60 }
           ]
         },
         {
@@ -271,22 +271,22 @@ const content = {
         }
       ],
       technologies: [
-        "React", "TypeScript", "Node.js", "AWS", "Docker", "PostgreSQL", 
+        "React", "TypeScript", "Node.js", "AWS", "Docker", "PostgreSQL",
         "MongoDB", "GraphQL", "Jest", "Tailwind CSS", "Next.js", "Vue.js"
       ]
     },
     meta: {
-      title: "Joane Smith - Ingeniera de Software",
-      description: "Portfolio personal de Joane Smith, una ingeniera de software especializada en React, TypeScript y tecnologías web modernas.",
-      keywords: ["ingeniera de software", "react", "typescript", "desarrollo web", "portfolio"]
+      title: "Jhoan Aristizabal - Ingeniero de Sistemas",
+      description: "Portfolio personal de Jhoan Aristizabal, un ingeniero de sistemas especializado en React, TypeScript y tecnologías web modernas.",
+      keywords: ["ingeniero de sistemas", "react", "typescript", "desarrollo web", "portfolio"]
     }
   }
 };
 
 export const portfolioConfig: PortfolioConfig = {
   personal: {
-    name: "Joane Smith",
-    title: "Software Engineer",
+    name: "Jhoan Aristizabal",
+    title: "Ingeniero de Sistemas",
     subtitle: "Building elegant solutions with modern technologies",
     greeting: "Hello, I'm",
     profilePhoto: "/profile-photo.png",
@@ -294,14 +294,14 @@ export const portfolioConfig: PortfolioConfig = {
   },
 
   contact: {
-    email: "joane.smith@example.com",
-    phone: "+1 (555) 123-4567",
-    location: "San Francisco, CA",
+    email: "jhoanaristi0602@gmail.com",
+    phone: "+57 (305) 816-6649",
+    location: "Bogotá, COL",
     social: {
-      github: "https://github.com/joanesmith",
-      linkedin: "https://linkedin.com/in/joanesmith",
+      github: "https://github.com/JHE060297",
+      linkedin: "https://linkedin.com/in/jhoan-aristizabal/",
       twitter: "https://twitter.com/joanesmith",
-      instagram: "https://instagram.com/joanesmith"
+      instagram: "https://instagram.com/jhe0602"
     }
   },
 
@@ -393,7 +393,7 @@ export const portfolioConfig: PortfolioConfig = {
       }
     ],
     technologies: [
-      "React", "TypeScript", "Node.js", "AWS", "Docker", "PostgreSQL", 
+      "React", "TypeScript", "Node.js", "AWS", "Docker", "PostgreSQL",
       "MongoDB", "GraphQL", "Jest", "Tailwind CSS", "Next.js", "Vue.js"
     ]
   },
